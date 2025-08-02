@@ -25,7 +25,7 @@ Key features include:
 
 ## Tech Stack
 
-| Technology       | Purpose                                  |
+
 |                  |                                          |
 | Java 17          | Programming language                     |
 | Spring Boot      | Application framework                    |
